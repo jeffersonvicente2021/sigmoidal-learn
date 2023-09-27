@@ -8,9 +8,15 @@
 # Jefferson Vicente
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Olá! Sou Jefferson da Silva Vicente, um apaixonado por tecnologia e desenvolvimento de sistemas com mais de uma década de experiência no mundo da informática. Com 33 anos de idade, minha jornada começou como técnico em informática no CETAM (Centro de Educação Tecnológica do Amazonas), onde mergulhei nos fundamentos da computação.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Minha trajetória inclui uma passagem como técnico de provedor de internet, onde administrei sistemas MikroTik e diversas outras tecnologias que me proporcionaram uma base sólida em infraestrutura de rede. Além disso, servi como sargento do Exército Brasileiro de 2011 a 2014, onde desenvolvi habilidades de liderança, trabalho em equipe e disciplina que continuam a moldar minha abordagem profissional.
+
+Atualmente, como técnico judiciário do Tribunal de Justiça do Amazonas, sou responsável pelo suporte técnico da 2ª sub-região, que abrange mais de sete cidades na região do Médio Solimões. Aqui, tenho a oportunidade de aplicar minha experiência tecnológica para garantir que o sistema de justiça funcione de maneira eficiente e eficaz.
+
+Meu interesse pela área de dados me levou a buscar uma pós-graduação em Big Data e Analytics, onde adquiri habilidades valiosas em análise de dados e visualização. Atualmente, estou direcionando meu foco para programação e ciência de dados, buscando constantemente aprender e crescer nesse campo em constante evolução.
+
+Estou entusiasmado em compartilhar meu conhecimento e projetos aqui no GitHub. Sinta-se à vontade para explorar meu repositório e acompanhar minha jornada de desenvolvimento e descoberta tecnológica. Juntos, podemos impulsionar a inovação e criar soluções impactantes para os desafios do mundo digital.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
